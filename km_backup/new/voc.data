@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/Github/darknet/dataset/train.txt
+valid  = /home/Github/darknet/dataset/2007_test.txt
+names = data/voc.names
+backup = backup
+

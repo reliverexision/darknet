@@ -12,6 +12,7 @@
 *.pyc
 mnist/
 data/
+dataset/
 caffe/
 grasp/
 images/
@@ -64,3 +65,5 @@ uselib
 uselib_track
 darknet
 vcpkg/
+darknet53.conv.74
+yolov4.conv.137
